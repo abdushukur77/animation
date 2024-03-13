@@ -16,7 +16,7 @@ class MyRouter {
         return MaterialPageRoute(builder: (_) => HomeScreen());
 
       case fifthScreenRoute:
-        return MaterialPageRoute(builder: (_) => ExampleFive());
+        return MaterialPageRoute(builder: (_) => ExampleEight());
       case sixthScreenRoute:
         return MaterialPageRoute(builder: (_) => ExampleSix());
       case seventhScreenRoute:
